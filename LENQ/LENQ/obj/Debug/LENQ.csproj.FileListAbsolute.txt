@@ -1,0 +1,6 @@
+c:\users\kbstudentint\documents\visual studio 2013\Projects\LENQ\LENQ\bin\Debug\LENQ.exe.config
+c:\users\kbstudentint\documents\visual studio 2013\Projects\LENQ\LENQ\bin\Debug\LENQ.exe
+c:\users\kbstudentint\documents\visual studio 2013\Projects\LENQ\LENQ\bin\Debug\LENQ.pdb
+c:\users\kbstudentint\documents\visual studio 2013\Projects\LENQ\LENQ\obj\Debug\LENQ.csprojResolveAssemblyReference.cache
+c:\users\kbstudentint\documents\visual studio 2013\Projects\LENQ\LENQ\obj\Debug\LENQ.exe
+c:\users\kbstudentint\documents\visual studio 2013\Projects\LENQ\LENQ\obj\Debug\LENQ.pdb

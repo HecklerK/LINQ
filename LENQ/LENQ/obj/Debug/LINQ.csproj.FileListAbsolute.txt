@@ -1,0 +1,6 @@
+C:\Users\kbstudentint\Documents\Visual Studio 2013\Projects\LENQ\LENQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\kbstudentint\Documents\Visual Studio 2013\Projects\LENQ\LENQ\bin\Debug\LINQ.exe.config
+C:\Users\kbstudentint\Documents\Visual Studio 2013\Projects\LENQ\LENQ\bin\Debug\LINQ.exe
+C:\Users\kbstudentint\Documents\Visual Studio 2013\Projects\LENQ\LENQ\bin\Debug\LINQ.pdb
+C:\Users\kbstudentint\Documents\Visual Studio 2013\Projects\LENQ\LENQ\obj\Debug\LINQ.exe
+C:\Users\kbstudentint\Documents\Visual Studio 2013\Projects\LENQ\LENQ\obj\Debug\LINQ.pdb
